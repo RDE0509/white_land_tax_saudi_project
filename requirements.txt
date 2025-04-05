@@ -4,4 +4,4 @@ geopandas
 streamlit-folium
 matplotlib
 plotly
-
+seaborn
